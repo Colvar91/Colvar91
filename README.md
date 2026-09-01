@@ -80,6 +80,23 @@ Das Projekt ist über mehrere Versionen gewachsen und wurde immer wieder umgebau
 
 ---
 
+### ♟️ [Schach](https://github.com/Colvar91/Schach)
+
+Bei Schach wollte ich ausprobieren, ob sich ein komplettes Schachspiel direkt als WoW-Addon umsetzen lässt – und daraus ist inzwischen deutlich mehr als nur ein einfaches Brett geworden.
+
+Man kann gegen eine KI spielen, andere Spieler herausfordern und laufende Partien als Zuschauer verfolgen. Gerade bei diesem Projekt steckt viel Logik im Hintergrund, weil Spielzüge geprüft, Partien synchronisiert und verschiedene Spielzustände sauber zwischen den Spielern übertragen werden müssen.
+
+**Dazu gehören unter anderem:**
+- Schach gegen eine eigene KI
+- Partien gegen andere Spieler
+- Zuschauermodus für laufende Partien
+- Lobby für sichtbare Partien
+- eigene Schach- und Zuglogik
+- Synchronisierung zwischen Spielern
+- Spielstand- und Zeitverwaltung
+
+---
+
 ## 🛠️ Womit ich gerade arbeite und lerne
 
 ![Lua](https://img.shields.io/badge/Lua-Lernen-2C2D72?style=flat-square&logo=lua&logoColor=white)
