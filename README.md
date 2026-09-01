@@ -107,19 +107,3 @@ Man kann gegen eine KI spielen, andere Spieler herausfordern und laufende Partie
 ![JavaScript](https://img.shields.io/badge/JavaScript-Projekte-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 
 `Lua` · `Git` · `GitHub` · `HTML` · `CSS` · `JavaScript` · `UI/UX` · `Debugging` · `ChatGPT` · `Codex`
-
----
-
-## 🚧 Wahrscheinlich nie ganz fertig
-
-Dieses Profil soll kein Hochglanz-Lebenslauf sein und auch nicht den Eindruck erwecken, dass hinter jedem Projekt ein perfekter Entwicklungsprozess steckt.
-
-Es ist einfach eine Sammlung der Dinge, die ich gebaut habe und an denen ich weiterarbeite, wenn mir neue Ideen kommen. Manche Projekte werden größer, andere werden umgebaut und manches würde ich heute wahrscheinlich anders machen als am Anfang.
-
-Das gehört für mich einfach dazu.
-
-<div align="center">
-
-**Idee haben → ausprobieren → umsetzen → verbessern**
-
-</div>
