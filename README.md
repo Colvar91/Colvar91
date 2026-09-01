@@ -2,11 +2,11 @@
 
 # 👋 Hi, ich bin Colvar
 
-### Ich probiere aus, baue Dinge und lerne dabei.
+### Ich habe Ideen und versuche, daraus etwas Funktionierendes zu machen.
 
-Ich beschäftige mich aktuell immer mehr mit Softwareentwicklung und setze dabei vor allem eigene Ideen um. Viele meiner Projekte entstehen einfach aus dem Gedanken: **„Das wäre praktisch – kann man das nicht selbst bauen?“**
+Ich beschäftige mich mit Softwareprojekten vor allem dann, wenn ich eine Idee habe, die ich gerne umsetzen möchte. Viele meiner Projekte entstehen ziemlich simpel aus dem Gedanken: **„Das wäre praktisch – kann man das nicht selbst bauen?“**
 
-Ich bin noch am Anfang und lerne vieles direkt während der Arbeit an meinen Projekten. Genau das soll man hier auch sehen können.
+Ich mache aktuell keine Ausbildung in diesem Bereich und verfolge auch keinen festen Programmierkurs oder Lernplan. Ich arbeite eher projektbezogen und beschäftige mich mit den Dingen, die für die jeweilige Idee gerade nötig sind.
 
 </div>
 
@@ -14,20 +14,20 @@ Ich bin noch am Anfang und lerne vieles direkt während der Arbeit an meinen Pro
 
 ## 👨‍💻 Über mich
 
-Ich komme nicht aus der klassischen Entwickler-Ecke und möchte hier auch nicht so tun, als könnte ich schon alles.
+Ich komme nicht aus der klassischen Entwickler-Ecke und möchte hier auch nicht so tun, als wäre ich ausgebildeter Programmierer.
 
-Stattdessen versuche ich, mir nach und nach mehr Wissen anzueignen und eigene Projekte umzusetzen. Dabei geht es mir nicht nur darum, dass am Ende irgendetwas funktioniert, sondern auch darum, besser zu verstehen, **wie es funktioniert und wie man es verbessern kann**.
+Was mir Spaß macht, ist das Entwickeln eigener Ideen. Ich überlege mir, wie etwas aussehen oder funktionieren soll, probiere verschiedene Wege aus und arbeite so lange daran weiter, bis es möglichst nah an das herankommt, was ich mir vorgestellt habe.
 
-Besonders Spaß macht mir:
+Dabei interessieren mich besonders:
 
 - eigene Ideen in ein richtiges Projekt zu verwandeln
-- Oberflächen zu planen und zu verbessern
+- Oberflächen zu planen und immer wieder anzupassen
+- Funktionen auszubauen und Projekte größer werden zu lassen
 - Fehler zu finden und Lösungen auszuprobieren
-- bestehende Projekte Stück für Stück auszubauen
-- mit Git und GitHub sauberer zu arbeiten
-- neue Dinge direkt an echten Projekten zu lernen
+- Projekte übersichtlich zu strukturieren
+- Git und GitHub für meine Projekte zu nutzen
 
-Ich nutze dabei auch KI-Werkzeuge wie ChatGPT und Codex als Unterstützung beim Planen, Umsetzen, Debuggen und Lernen.
+Ich nutze dabei auch KI-Werkzeuge wie ChatGPT und Codex. Sie helfen mir beim Planen, Umsetzen, Überarbeiten und bei der Fehlersuche. Gerade weil ich selbst keine klassische Programmierausbildung habe, sind diese Werkzeuge für mich ein wichtiger Teil meiner Arbeitsweise.
 
 ---
 
@@ -97,29 +97,29 @@ Man kann gegen eine KI spielen, andere Spieler herausfordern und laufende Partie
 
 ---
 
-## 🛠️ Womit ich gerade arbeite und lerne
+## 🛠️ Technologien und Werkzeuge aus meinen Projekten
 
-![Lua](https://img.shields.io/badge/Lua-Lernen-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Lernen-F05032?style=flat-square&logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-Projekte-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Versionsverwaltung-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Projekte-181717?style=flat-square&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Lernen-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Lernen-663399?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Lernen-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML](https://img.shields.io/badge/HTML-Projekte-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Projekte-663399?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Projekte-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 
-`Lua` · `Git` · `GitHub` · `HTML` · `CSS` · `JavaScript` · `UI/UX` · `Debugging`
+`Lua` · `Git` · `GitHub` · `HTML` · `CSS` · `JavaScript` · `UI/UX` · `Debugging` · `ChatGPT` · `Codex`
 
 ---
 
-## 🚧 Noch lange nicht fertig
+## 🚧 Wahrscheinlich nie ganz fertig
 
-Dieses Profil soll kein fertiger Hochglanz-Lebenslauf sein. Es ist eher eine Sammlung meiner Projekte und gleichzeitig ein Blick darauf, wie ich mich weiterentwickle.
+Dieses Profil soll kein Hochglanz-Lebenslauf sein und auch nicht den Eindruck erwecken, dass hinter jedem Projekt ein perfekter Entwicklungsprozess steckt.
 
-Es wird also vermutlich immer wieder neue Projekte, Umbauten, Fehler, neue Versionen und Dinge geben, die ich heute anders machen würde als vor ein paar Monaten.
+Es ist einfach eine Sammlung der Dinge, die ich gebaut habe und an denen ich weiterarbeite, wenn mir neue Ideen kommen. Manche Projekte werden größer, andere werden umgebaut und manches würde ich heute wahrscheinlich anders machen als am Anfang.
 
-Und genau das gehört für mich dazu.
+Das gehört für mich einfach dazu.
 
 <div align="center">
 
-**Idee haben → ausprobieren → Fehler machen → verstehen → besser machen**
+**Idee haben → ausprobieren → umsetzen → verbessern**
 
 </div>
