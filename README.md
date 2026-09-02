@@ -23,7 +23,7 @@ Dabei interessieren mich besonders:
 - eigene Ideen in ein richtiges Projekt zu verwandeln
 - Oberflächen zu planen und immer wieder anzupassen
 - Funktionen auszubauen und Projekte größer werden zu lassen
-- Fehler zu finden und Lösungen auszuprobieren
+- Fehler zu finden und Lösungen erarbeiten
 - Projekte übersichtlich zu strukturieren
 - Git und GitHub für meine Projekte zu nutzen
 
@@ -75,7 +75,6 @@ Das Projekt ist über mehrere Versionen gewachsen und wurde immer wieder umgebau
 - Einnahmen, Ausgaben und automatische Raten
 - Wissensdatenbank
 - Ortseinträge
-- eigenes Dark-Fantasy-Design
 - verschiedene Prüfungen und Sicherungen für gespeicherte Daten
 
 ---
