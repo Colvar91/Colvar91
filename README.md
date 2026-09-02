@@ -16,7 +16,7 @@ Ich mache aktuell keine Ausbildung in diesem Bereich und verfolge auch keinen fe
 
 Ich komme nicht aus der klassischen Entwickler-Ecke und möchte hier auch nicht so tun, als wäre ich ausgebildeter Programmierer.
 
-Was mir Spaß macht, ist das Entwickeln eigener Ideen. Ich überlege mir, wie etwas aussehen oder funktionieren soll, probiere verschiedene Wege aus und arbeite so lange daran weiter, bis es möglichst nah an das herankommt, was ich mir vorgestellt habe.
+Was mir Spaß macht, ist das Entwickeln eigener Ideen. Ich überlege mir, wie etwas aussehen oder funktionieren soll, probiere verschiedene Wege aus und arbeite so lange daran weiter, bis es möglichst nah an das herankommt oder so wird wie ich es mir vorgestellt habe.
 
 Dabei interessieren mich besonders:
 
